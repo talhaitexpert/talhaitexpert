@@ -17,7 +17,15 @@
 - 📄 Know about my experiences [https://talha.gitxpert.com/](https://talha.gitxpert.com/)
 
 
-My Work Experience:
+
+ ## My Work Experience:
+- ☕ Built Site for [Starbucks of Trinidad & Tobago](https://www.starbucks.tt/).
+- 🙋 Ex Employee at [Nastech](https://nastechgroup.com/) as Front End Web Developer.
+- 🙋 Working at TechnoSpark & Co. as Next JS Developer.
+- 🚀 Built Multiple Websites for Several businesses.
+- ✨ Prepared variety of different designs, layouts and websites as a Freelancer.
+
+
 ☕ Built Sites for of All Districts, Division, RPO's and DHQ's of Punjab in Punjab IT Board.
 🙋 Ex Employee at Devsinc as Front End Web Developer.
 🙋 Working at Greelogix as WordPress Developer.
