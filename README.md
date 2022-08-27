@@ -18,8 +18,8 @@
 
 
  ## My Work Experience:
-- ☕ Built Sites for of All Districts, Division, RPO's and DHQ's of Punjab in Punjab IT Board.(https://www.starbucks.tt/).
-- 👨‍💻 Ex Employee at Devsinc(devsinc.com) as Front End Web Developer..
+- ☕ Built Sites for of All Districts, Division, RPO's and DHQ's of Punjab in Punjab IT Board.
+- 👨‍💻 Ex Employee at Devsinc as Front End Web Developer..
 - 👨‍💻  Working at Greelogix as WordPress Developer.
 - 🚀 Built Multiple Websites for Several businesses.
 - ✨ Prepared variety of different designs, layouts and websites as a Freelancer.
