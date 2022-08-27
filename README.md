@@ -17,32 +17,26 @@
 - 📄 Know about my experiences [https://talha.gitxpert.com/](https://talha.gitxpert.com/)
 
 
-
  ## My Work Experience:
-- ☕ Built Site for [Starbucks of Trinidad & Tobago](https://www.starbucks.tt/).
-- 🙋 Ex Employee at [Nastech](https://nastechgroup.com/) as Front End Web Developer.
-- 🙋 Working at TechnoSpark & Co. as Next JS Developer.
+- ☕ Built Sites for of All Districts, Division, RPO's and DHQ's of Punjab in Punjab IT Board.(https://www.starbucks.tt/).
+- 👨‍💻 Ex Employee at Devsinc(devsinc.com) as Front End Web Developer..
+- 👨‍💻  Working at Greelogix as WordPress Developer.
 - 🚀 Built Multiple Websites for Several businesses.
 - ✨ Prepared variety of different designs, layouts and websites as a Freelancer.
 
 
-☕ Built Sites for of All Districts, Division, RPO's and DHQ's of Punjab in Punjab IT Board.
-🙋 Ex Employee at Devsinc as Front End Web Developer.
-🙋 Working at Greelogix as WordPress Developer.
-🚀 Built Multiple Websites for Several businesses.
-✨ Prepared variety of different designs, layouts and websites as a Freelancer.
+## What can i do? 
+- 🌱 I’m Full Time React JS developer.
+- 🌱 Learning Next JS and Typescript to enhance my skillset.
+- 💪 My strength in rapid responsive Designing.
+- 🎨 I can design amazing layout using Bulma, BootStrap, tailwind Styled Componenets  Sass.
+- 👯 My skills are in designing, development SEO Optimization and Web Scrapping. 
+- 📝 Actively listen to customers' requests, confirming full understanding before addressing concerns.
+- 🧑💻 Plan website development, converting mockups into usable web presence with HTML, React JS, Redux and JSON coding.
+- 🔨 Convert graphic designs to usable web images using React JS.
 
-What can i do?
-🌱 I’m Full Time React JS developer.
-🌱 Learning Next JS and Typescript to enhance my skillset.
-💪 My strength in rapid responsive Designing.
-🎨 I can design amazing layout using Bulma, BootStrap, tailwind Styled Componenets Sass.
-👯 My skills are in designing, development SEO Optimization and Web Scrapping.
-📝 Actively listen to customers' requests, confirming full understanding before addressing concerns.
-🧑💻 Plan website development, converting mockups into usable web presence with HTML, React JS, Redux and JSON coding.
-🔨 Convert graphic designs to usable web images using React JS.
 
-<h3 align="left">Connect with me:</h3>
+## Reach Talha
 <p align="left">
 <a href="https://linkedin.com/in/talhaitexpert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="talhaitexpert" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/users/9883621/talha-talha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/9883621/talha-talha" height="30" width="40" /></a>
