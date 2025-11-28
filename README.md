@@ -32,7 +32,7 @@
 
 ## Reach Talha
 <p align="left">
-<a href="https://linkedin.com/in/talhaitexpert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="talhaitexpert" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="talhaitexpert" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/users/9883621/talha-talha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/9883621/talha-talha" height="30" width="40" /></a>
 <a href="https://fb.com/talhanadeemsgd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="talhanadeemsgd" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/talhanadeemsgd22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="talhanadeemsgd22" height="30" width="40" /></a>
